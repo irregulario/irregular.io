@@ -68,7 +68,10 @@ a {
   color: #fff;
   text-align: center;
 }
-
+img {
+  width:33%;
+  height:33%;
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
